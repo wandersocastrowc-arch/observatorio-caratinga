@@ -1,0 +1,6 @@
+# Dependências dos pipelines de dados do Observatório de Caratinga
+# (instaladas automaticamente pelos workflows do GitHub Actions)
+requests>=2.31
+pandas>=2.0
+openpyxl>=3.1
+py7zr>=0.21
